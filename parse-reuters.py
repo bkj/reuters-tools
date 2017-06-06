@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+
+"""
+    parse-reuters.py
+"""
+
 import re
 import sys
 import codecs
